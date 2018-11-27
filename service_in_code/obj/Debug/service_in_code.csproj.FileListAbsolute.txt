@@ -1,0 +1,6 @@
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\service_in_code\bin\Debug\service_in_code.exe.config
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\service_in_code\bin\Debug\service_in_code.exe
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\service_in_code\bin\Debug\service_in_code.pdb
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\service_in_code\obj\Debug\service_in_code.csprojResolveAssemblyReference.cache
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\service_in_code\obj\Debug\service_in_code.exe
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\service_in_code\obj\Debug\service_in_code.pdb

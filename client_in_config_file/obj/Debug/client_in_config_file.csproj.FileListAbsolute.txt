@@ -1,0 +1,12 @@
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\bin\Debug\client_in_config_file.exe.config
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\bin\Debug\client_in_config_file.exe
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\bin\Debug\client_in_config_file.pdb
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\obj\Debug\client_in_config_file.exe
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\obj\Debug\client_in_config_file.pdb
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\obj\Debug\client_in_config_file.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\bin\Debug\client_in_config_file.exe.config
+C:\Users\student\Desktop\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\bin\Debug\client_in_config_file.exe
+C:\Users\student\Desktop\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\bin\Debug\client_in_config_file.pdb
+C:\Users\student\Desktop\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\obj\Debug\client_in_config_file.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\obj\Debug\client_in_config_file.exe
+C:\Users\student\Desktop\homework_wcf_1_moroz_vladimir_s9p1_27\client_in_config_file\obj\Debug\client_in_config_file.pdb
